@@ -11,7 +11,7 @@
 
 **Domain** Transportation Analytics
 
-## 3. Problem Statement
+## 3. Problem Statement:
 - To analyze delay patterns across different transport types, routes, and time periods to identify the major sources of travel disruption.
 
 - To study how weather conditions such as rain, fog, snow, and storms affect departure and arrival delays.
@@ -50,6 +50,23 @@
 | Day_Type | Categorical | Indicates whether it is a weekday or weekend |
 | Season | Categorical | Season during the trip (Winter, Summer, etc.) |
 | Delayed | Categorical (Yes/No) | Final label indicating if the trip was delayed |
+
+## 5.Tools & Technologies:
+•	 **Excel**: Data cleaning, transformation, and Pivot Tables.
+
+• 	**Power BI**:  Data modelling, DAX calculations, Measure, Measure Table, visualization, and interactive dashboard creation.
+
+## 6. Data Pre-processing (Excel/Power Query):
+### Task Performed:
+ -  **Data Cleaning & Transformation:** Removed duplicates, handled missing values, standardized formats, and created calculated fields.
+ -   **Filtering & Sorting:** : Organized data to focus on relevant records.
+
+## 6. Data Modelling & DAX (Power BI):
+- **Data Model:** Established relationships between tables, defined cardinality, and created lookup tables where necessary.
+  ![Alt text]
+
+   
+
 
 
          
