@@ -63,7 +63,8 @@
 
 ## 6. Data Modelling & DAX (Power BI):
 - **Data Model:** Established relationships between tables, defined cardinality, and created lookup tables where necessary.
-  ![Alt text]
+![Alt text]([image-path "Optional title"](https://github.com/RajeshwariDataAnalyst/POWER-BI/blob/main/Data%20Model.png?raw=true))
+
 
    
 
