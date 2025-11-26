@@ -61,11 +61,29 @@
  -  **Data Cleaning & Transformation:** Removed duplicates, handled missing values, standardized formats, and created calculated fields.
  -   **Filtering & Sorting:** : Organized data to focus on relevant records.
 
-## 6. Data Modelling & DAX (Power BI):
+## 7. Data Modelling & DAX (Power BI):
 - **Data Model:** Established relationships between tables, defined cardinality, and created lookup tables where necessary.
 
-  ![Data Model]((https://github.com/RajeshwariDataAnalyst/POWER-BI/blob/main/Data%20Model.png?raw=true))
+  ![Data Model](Readme/https://github.com/RajeshwariDataAnalyst/POWER-BI/blob/main/Data%20Model.png?raw=true)
 
+- **Calculated Columns & DAX Measures:** Implement DAX formula for key matrics,such as Total trips, Avg of delay & arrival,Delay trips count, And Create Measure Table for Grouping the arrival and Depature delay.
+
+## 8.Analysis & Visualizations(POWER BI):
+  ### Report Feature:
+    - Comprehensive analysis of 2000 public transport trips across bus, train, metro, and tram reveals that delays vary 
+    significantly by transport type, with bus and train experiencing the most frequent and severe delays.
+
+     
+  Comprehensive analysis of 2000 public transport trips across Bus, Train, Metro, and Tram reveals that delays vary significantly by transport type, with Bus and Train experiencing the most frequent and severe delays.
+
+Arrival delays are generally higher than departure delays, highlighting that delays compound throughout the journey, especially during peak hours and in congested routes.
+
+Weather conditions such as storms, fog, and rain, along with large public events (concerts, festivals, protests), strongly influence delay patterns, confirming the importance of integrating external factors into delay prediction.
+
+The distribution of trips during peak and off-peak hours shows that although off-peak trips are more numerous, peak-hour delays have a larger impact on overall transit reliability.
+
+Interactive visualizations, including delay severity by transport type and real-time counts of delayed trips, enable targeted strategies to improve service efficiency and passenger satisfaction.
+  
 
    
 
